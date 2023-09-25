@@ -1,0 +1,21 @@
+Question: How many known living species of hyenas are there?
+Correct Answer: 4
+User Answer: 6
+
+Question: What is the scientific name of the cheetah?
+Correct Answer: Acinonyx jubatus
+User Answer: Felis catus
+
+Question: What is the scientific name of the Budgerigar?
+Correct Answer: Melopsittacus undulatus
+User Answer: Melopsittacus undulatus
+
+Question: What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?
+Correct Answer: Hemocyanin
+User Answer: Iron
+
+Question: What is the collective noun for vultures?
+Correct Answer: Wake
+User Answer: Wake
+
+Correct answers: 2 / 5
